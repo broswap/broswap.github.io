@@ -1,7 +1,7 @@
 {
-    "name": "CUAN",
-    "short_name": "CUAN",
-    "description": "CUAN Presale DApp",
+    "name": "BroSale",
+    "short_name": "BroSale",
+    "description": "BroSale DApp",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
